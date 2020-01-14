@@ -1,4 +1,4 @@
-# sshd-bastion-dockerfile
+# ssh-bastion-dockerfile
 Dockerfile for ssh-bastion server on Alpine Linux.
 
 Features
